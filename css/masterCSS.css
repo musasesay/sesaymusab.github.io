@@ -1,0 +1,199 @@
+#twitterIcon{
+  color:rgb(0,172,237);
+}
+#facebookIcon{
+  color:rgb(59,89,163);
+}
+    #githubIcon{
+  color:rgb(102,43,129);
+}
+    #linkedinIcon{
+  color:rgb(0,127,178);
+}
+.block{
+  background-color:black;
+  opacity:.8;
+  padding:10px;
+  
+    width: 50%;
+    height: 200px;
+    margin-right: auto;
+  margin-left: auto;
+    border: 3px solid #73AD21;  
+   box-shadow:0px 0px 1px 1px black;
+   text-shadow:2px 4px 5px black;
+  margin-top:1px;
+}
+.nav-pills{
+  
+  font-size:1.7em;
+ background-color:black;
+    font-family:lobster;
+}
+
+body{
+  margin:0;
+  padding:0;
+  color:white;
+  background:#888;
+  font-family:"Lobster",Helvetica,Arial,sans-serif;
+}
+.h1{
+  padding:0px;
+  margin-top:0px; 
+  font-size:5.0em;
+   box-shadow:0px 0px 1px 1px black;
+   text-shadow:2px 4px 5px black;
+}
+.pageOne{
+ background: url("http://k36.kn3.net/E/1/A/6/2/0/2C8.gif");
+  background-size:cover;
+  padding-bottom:5%;
+}
+.pageTwo{
+  /* background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5C-kEFQzi4KVoFSJ0Yl5V07azg2CKBskEGmbbbj2ZgC8d-arKog") no-repeat center center  ;*/
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+background-size:cover;
+  text-align:center;
+   box-shadow:0px 0px 1px 1px black;
+  color:white;
+}
+.pageThree{
+  /*background: url("https://flagspot.net/images/s/sl_emb.gif") no-repeat center center ;*/
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+background-size:cover;
+  text-align:center;
+   box-shadow:0px 0px 1px 1px black;
+  padding-top:5%;
+  padding-bottom:5%;
+}
+.pageFour{
+
+ /* background: url("http://bluewallpaperbackground.weebly.com/uploads/1/9/7/6/19768865/7581495_orig.jpg") */
+  no-repeat center center ;
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+background-size:cover;
+  text-align:center;
+   box-shadow:0px 0px 1px 1px black;
+  padding-top:5%;
+  /*padding-bottom:10%;
+  http://bluewallpaperbackground.weebly.com/uploads/1/9/7/6/19768865/7581495_orig.jpg */
+  
+ 
+}
+h3{
+  banckground-color:black;
+    color:white;
+}
+
+p{
+  font-size:2em;
+}
+.me{
+  height:400px;
+  margin-right:auto;
+  margin-left:auto;
+  border-radius:30%;
+}
+
+.btn-default{
+  background-color:black;
+  border-color:black;
+  color:#337ab7;
+  font-size:1.7em;
+}
+
+.fa-facebook {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #322f30;
+}
+.fa-facebook:hover {
+    background-color: #3d5b99;
+}
+.fa-twitter {
+    padding:10px 12px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #322f30;
+}
+.fa-twitter:hover {
+    background-color: #00aced;
+}
+.fa-rss {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #322f30;
+}
+.fa-rss:hover {
+    background-color: #eb8231;
+}
+.fa-youtube {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #322f30;
+}
+.fa-youtube:hover {
+    background-color: #e64a41;
+}
+.fa-linkedin {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #322f30;
+}
+.fa-linkedin:hover {
+    background-color: #0073a4;
+}
+.fa-google-plus {
+    padding:10px 9px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #322f30;
+}
+.fa-google-plus:hover {
+    background-color: #e25714;
+}
+
+.paddingBTN{
+ /* padding-top:25%;
+  padding-bottom:25%;
+  */
+  width:200px;
+  margin-bottom:2%;
+}
+.paddingTop{
+  padding-top:2%;
+  padding-bottom:2%;
+}
+.footer{
+  background-color:black;
+  height:50px;
+}
